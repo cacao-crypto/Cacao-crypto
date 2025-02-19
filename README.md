@@ -185,7 +185,7 @@
     <h2>فريق Cacao Crypto</h2>
     <div class="team-container">
       <div class="team-member">
-        <h3>محمد أحمد</h3>
+        <h3>محمد يوسف</h3>
         <p>المؤسس والرئيس التنفيذي</p>
       </div>
       <div class="team-member">
